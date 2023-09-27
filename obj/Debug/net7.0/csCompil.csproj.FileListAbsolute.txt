@@ -1,0 +1,14 @@
+/home/tim/csCompil/bin/Debug/net7.0/csCompil
+/home/tim/csCompil/bin/Debug/net7.0/csCompil.deps.json
+/home/tim/csCompil/bin/Debug/net7.0/csCompil.runtimeconfig.json
+/home/tim/csCompil/bin/Debug/net7.0/csCompil.dll
+/home/tim/csCompil/bin/Debug/net7.0/csCompil.pdb
+/home/tim/csCompil/obj/Debug/net7.0/csCompil.GeneratedMSBuildEditorConfig.editorconfig
+/home/tim/csCompil/obj/Debug/net7.0/csCompil.AssemblyInfoInputs.cache
+/home/tim/csCompil/obj/Debug/net7.0/csCompil.AssemblyInfo.cs
+/home/tim/csCompil/obj/Debug/net7.0/csCompil.csproj.CoreCompileInputs.cache
+/home/tim/csCompil/obj/Debug/net7.0/csCompil.dll
+/home/tim/csCompil/obj/Debug/net7.0/refint/csCompil.dll
+/home/tim/csCompil/obj/Debug/net7.0/csCompil.pdb
+/home/tim/csCompil/obj/Debug/net7.0/csCompil.genruntimeconfig.cache
+/home/tim/csCompil/obj/Debug/net7.0/ref/csCompil.dll
